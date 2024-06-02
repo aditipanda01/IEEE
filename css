@@ -1,0 +1,47 @@
+.whole_about {
+    margin-top: 25px;
+    margin-left: 35px;
+    margin-right: 25px;
+}
+
+.info_heading {
+    color: #323f4b;
+    font-size: 21px;
+}
+
+.para1 {
+    color: #9aa5b1;
+    font-size: 0.85rem;
+}
+
+.heading_morepictures {
+    margin-left: 35px;
+    margin-right: 25px;
+    color: #323f4b;
+    font-size: 18px;
+}
+
+.html-img {
+    height: 100px;
+    width: 100px;
+    padding-right: 10px;
+}
+
+.videos {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 25px;
+    color: #323f4b;
+    font-size: 21px;
+}
+
+.bottom-container {
+    margin-top: 5px;
+    margin-left: 15px;
+    padding: 10px;
+}
+
+.htmlvid {
+    height: 50px;
+    width: 50px;
+}
